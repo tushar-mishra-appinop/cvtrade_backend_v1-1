@@ -1,0 +1,72 @@
+[2024-08-31T11:57:14.147Z] ******** Clearing all jobs from the queue... ***********
+[2024-08-31T11:57:14.238Z] ********All jobs cleared from the queue. ***********
+[2024-08-31T11:57:14.243Z] Queue Stats:
+                Waiting: 0,
+                Active: 0,
+                Completed: 0,
+                Failed: 0
+[2024-08-31T12:07:17.546Z] Queue Stats After Cleanup:
+                    Waiting: 0,
+                    Active: 1,
+                    Completed: 0,
+                    Failed: 0
+[2024-08-31T12:07:18.097Z] Job 93438 completed and removed.
+[2024-08-31T12:07:19.985Z] Queue Stats After Cleanup:
+                    Waiting: 0,
+                    Active: 1,
+                    Completed: 0,
+                    Failed: 0
+[2024-08-31T12:07:20.620Z] Job 93439 completed and removed.
+[2024-08-31T12:10:19.049Z] Queue Stats After Cleanup:
+                    Waiting: 0,
+                    Active: 1,
+                    Completed: 0,
+                    Failed: 0
+[2024-08-31T12:10:19.649Z] Job 93440 completed and removed.
+[2024-08-31T12:10:32.164Z] Queue Stats After Cleanup:
+                    Waiting: 0,
+                    Active: 1,
+                    Completed: 0,
+                    Failed: 0
+[2024-08-31T12:10:36.250Z] Job 93441 completed and removed.
+[2024-08-31T12:14:03.958Z] Queue Stats After Cleanup:
+                    Waiting: 0,
+                    Active: 1,
+                    Completed: 0,
+                    Failed: 0
+[2024-08-31T12:14:04.938Z] Job 93442 completed and removed.
+[2024-08-31T12:14:04.939Z] Job 93442 completed and removed.
+[2024-08-31T12:14:33.343Z] Queue Stats After Cleanup:
+                    Waiting: 0,
+                    Active: 1,
+                    Completed: 0,
+                    Failed: 0
+[2024-08-31T12:14:47.262Z] Job 93443 completed and removed.
+[2024-08-31T12:14:47.263Z] Job 93443 completed and removed.
+[2024-08-31T12:14:47.264Z] Job 93443 completed and removed.
+[2024-08-31T12:17:38.055Z] Queue Stats After Cleanup:
+                    Waiting: 0,
+                    Active: 1,
+                    Completed: 0,
+                    Failed: 0
+[2024-08-31T12:17:59.996Z] Job 93444 completed and removed.
+[2024-08-31T12:17:59.997Z] Job 93444 completed and removed.
+[2024-08-31T12:20:30.466Z] Queue Stats After Cleanup:
+                    Waiting: 0,
+                    Active: 1,
+                    Completed: 0,
+                    Failed: 0
+[2024-08-31T12:21:27.696Z] Job 93445 completed and removed.
+[2024-08-31T12:21:27.697Z] Job 93445 completed and removed.
+[2024-08-31T12:21:27.697Z] Job 93445 completed and removed.
+[2024-08-31T12:24:15.101Z] Queue Stats After Cleanup:
+                    Waiting: 0,
+                    Active: 1,
+                    Completed: 0,
+                    Failed: 0
+[2024-08-31T12:26:05.731Z] Queue Stats After Cleanup:
+                    Waiting: 0,
+                    Active: 1,
+                    Completed: 0,
+                    Failed: 0
+[2024-08-31T12:26:08.413Z] Job 93446 completed and removed.

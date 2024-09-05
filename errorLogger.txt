@@ -1,0 +1,44 @@
+Fri Jul 26 2024 04:12:48 GMT-0700 (Pacific Daylight Time) - SyntaxError: Expected double-quoted property name in JSON at position 41
+    at JSON.parse (<anonymous>)
+    at parse (C:\Users\Admin\Desktop\cvtrade_backend_v1\node_modules\body-parser\lib\types\json.js:92:19)
+    at C:\Users\Admin\Desktop\cvtrade_backend_v1\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:206:9)
+    at invokeCallback (C:\Users\Admin\Desktop\cvtrade_backend_v1\node_modules\raw-body\index.js:238:16)
+    at done (C:\Users\Admin\Desktop\cvtrade_backend_v1\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (C:\Users\Admin\Desktop\cvtrade_backend_v1\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:518:28)
+    at endReadableNT (node:internal/streams/readable:1696:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+Sun Jul 28 2024 21:13:00 GMT-0700 (Pacific Daylight Time) - SyntaxError: Expected double-quoted property name in JSON at position 37
+    at JSON.parse (<anonymous>)
+    at parse (C:\Users\Admin\Desktop\cvtrade_backend_v1\node_modules\body-parser\lib\types\json.js:92:19)
+    at C:\Users\Admin\Desktop\cvtrade_backend_v1\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:206:9)
+    at invokeCallback (C:\Users\Admin\Desktop\cvtrade_backend_v1\node_modules\raw-body\index.js:238:16)
+    at done (C:\Users\Admin\Desktop\cvtrade_backend_v1\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (C:\Users\Admin\Desktop\cvtrade_backend_v1\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:518:28)
+    at endReadableNT (node:internal/streams/readable:1696:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+Sun Jul 28 2024 22:18:39 GMT-0700 (Pacific Daylight Time) - SyntaxError: Expected property name or '}' in JSON at position 5
+    at JSON.parse (<anonymous>)
+    at parse (C:\Users\Admin\Desktop\cvtrade_backend_v1\node_modules\body-parser\lib\types\json.js:92:19)
+    at C:\Users\Admin\Desktop\cvtrade_backend_v1\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:206:9)
+    at invokeCallback (C:\Users\Admin\Desktop\cvtrade_backend_v1\node_modules\raw-body\index.js:238:16)
+    at done (C:\Users\Admin\Desktop\cvtrade_backend_v1\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (C:\Users\Admin\Desktop\cvtrade_backend_v1\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:518:28)
+    at endReadableNT (node:internal/streams/readable:1696:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+Sun Jul 28 2024 22:25:34 GMT-0700 (Pacific Daylight Time) - SyntaxError: Expected double-quoted property name in JSON at position 39
+    at JSON.parse (<anonymous>)
+    at parse (C:\Users\Admin\Desktop\cvtrade_backend_v1\node_modules\body-parser\lib\types\json.js:92:19)
+    at C:\Users\Admin\Desktop\cvtrade_backend_v1\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:206:9)
+    at invokeCallback (C:\Users\Admin\Desktop\cvtrade_backend_v1\node_modules\raw-body\index.js:238:16)
+    at done (C:\Users\Admin\Desktop\cvtrade_backend_v1\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (C:\Users\Admin\Desktop\cvtrade_backend_v1\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:518:28)
+    at endReadableNT (node:internal/streams/readable:1696:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
